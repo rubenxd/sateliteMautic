@@ -1,0 +1,15 @@
+C:\Users\Ruben\Desktop\Integration Api\SateliteMautic\bin\Debug\SateliteMautic.exe.config
+C:\Users\Ruben\Desktop\Integration Api\SateliteMautic\bin\Debug\SateliteMautic.exe
+C:\Users\Ruben\Desktop\Integration Api\SateliteMautic\bin\Debug\SateliteMautic.pdb
+C:\Users\Ruben\Desktop\Integration Api\SateliteMautic\bin\Debug\RestSharp.dll
+C:\Users\Ruben\Desktop\Integration Api\SateliteMautic\bin\Debug\RestSharp.xml
+C:\Users\Ruben\Desktop\Integration Api\SateliteMautic\obj\Debug\SateliteMautic.csproj.AssemblyReference.cache
+C:\Users\Ruben\Desktop\Integration Api\SateliteMautic\obj\Debug\SateliteMautic.Form1.resources
+C:\Users\Ruben\Desktop\Integration Api\SateliteMautic\obj\Debug\SateliteMautic.Properties.Resources.resources
+C:\Users\Ruben\Desktop\Integration Api\SateliteMautic\obj\Debug\SateliteMautic.csproj.GenerateResource.cache
+C:\Users\Ruben\Desktop\Integration Api\SateliteMautic\obj\Debug\SateliteMautic.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\Integration Api\SateliteMautic\obj\Debug\SateliteMautic.csproj.CopyComplete
+C:\Users\Ruben\Desktop\Integration Api\SateliteMautic\obj\Debug\SateliteMautic.exe
+C:\Users\Ruben\Desktop\Integration Api\SateliteMautic\obj\Debug\SateliteMautic.pdb
+C:\Users\Ruben\Desktop\Integration Api\SateliteMautic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ruben\Desktop\Integration Api\SateliteMautic\bin\Debug\Newtonsoft.Json.xml
